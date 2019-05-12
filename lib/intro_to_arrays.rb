@@ -1,3 +1,3 @@
-before(:each) do
+array.new
   @my_new_array = instantiate_new_array
 end
